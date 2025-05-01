@@ -1,0 +1,102 @@
+.nav-link:link {
+    font-family: 'Baloo 2', sans-serif;
+    color: #F0B600;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.nav-link:hover {
+    color: #ba4b34;
+}
+
+.logo {
+    width: 200px;
+    height: auto;
+}    
+
+.bg-custom {
+    background-color: #1b1b1b;
+}
+
+.footer {
+    background-color: #1b1b1b;
+    color: #F0B600;
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.bi {
+    color: #F0B600;
+}
+
+.contactinfo {
+    font-family: 'Baloo 2', sans-serif;
+    color: #ba4b34;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.contactstyle {
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 25px;
+    color: #345d33;
+}
+
+.form-label {
+    font-size: 30px;
+    color: #345d33;
+    text-transform: capitalize;
+}
+
+.form-control {
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 20px;
+    color: #1b1b1b;
+    background-color: #f0b80034;
+    border: 2px solid #1b1b1b;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #ba4b34;
+    color: #1b1b1b;
+    border-color: #1b1b1b;
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.headshot {
+    width: 400px;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+p {
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}

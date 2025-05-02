@@ -9,6 +9,10 @@
     color: #ba4b34;
 }
 
+.nav-link:visited {
+    color: #F0B600;
+}
+
 .logo {
     width: 200px;
     height: auto;

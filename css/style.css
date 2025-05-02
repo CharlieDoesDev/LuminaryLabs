@@ -86,8 +86,27 @@
 }
 
 .customimage {
-    width: 500px;
+    width: 700px;
     height: auto;
+}
+
+.bg-custom-about {
+    background-color: #345d3383;
+    text-align: center;
+}
+
+.bg-custom-showcase {
+    background-color: #f0b80034;
+    text-align: center;
+}
+
+.bg-custom-index {
+    background-color: #ba4a3454;
+    text-align: center;
+}
+
+.bg-custom-contact {
+    background-color: #1b1b1b4c;
 }
 
 h1 {
@@ -99,7 +118,7 @@ h1 {
 h2 {
     font-family: 'Baloo 2', sans-serif;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 h3 {
@@ -111,5 +130,5 @@ h3 {
 p {
     font-family: 'Baloo 2', sans-serif;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 500;
 }
